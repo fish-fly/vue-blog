@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Vue Study]]></title>
+  <link href="http://fish-fly.github.io/vue-blog/atom.xml" rel="self"/>
+  <link href="http://fish-fly.github.io/vue-blog/"/>
+  <updated>2016-07-18T05:47:51+00:00</updated>
+  <id>http://fish-fly.github.io/vue-blog/</id>
+  <author>
+    <name><![CDATA[fish]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
